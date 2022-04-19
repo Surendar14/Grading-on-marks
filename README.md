@@ -7,9 +7,7 @@
 
 ## Program:
 
-#Developed by: Surendar S
-#reg.no:212220230051
-
+~~~~~~~~~~~~~~
   using System;
   using System.Collections.Generic;
   using System.Linq;
@@ -46,7 +44,7 @@
       Console.Write("You have chosen  : {0}\n", notes);
   } 
   }
-
+~~~~~~~~~~~~~~~
 
 ## Output:
 ![Screenshot (52)](https://user-images.githubusercontent.com/75235759/163829029-4e4342cd-599f-42e6-a17f-f8cdeffb1e8b.png)
